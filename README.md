@@ -24,5 +24,6 @@ This sits in direct conversation with mechanistic interpretability work on emerg
 
 ---
 
+🌐 [rmulligan.github.io](https://rmulligan.github.io) — Research portfolio
 📦 [`lilly-steering`](https://github.com/rmulligan/lilly-steering): Core affect steering and evolutionary activation architecture
 📧 ryan@mulligan.dev
